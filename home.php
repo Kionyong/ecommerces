@@ -41,5 +41,9 @@
         <img src="./assets/cacocola001.png" alt="">  
         <img src="./assets/lactasoy_logo002.png" alt="">  
     </div>
+    <!--footer-->
+    <?php
+        include("footer.php");
+    ?>
 </body>
 </html>
