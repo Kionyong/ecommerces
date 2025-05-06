@@ -8,10 +8,10 @@
 </head>
 <body>
     <footer id="footer">
-        <div class="">
-            <h1>Drinks</h1>
+        <h1>Drinks</h1>
+        <div class="footer-">
+
         </div>
-        <div class=""></div>
     </footer>
 </body>
 </html>
