@@ -8,7 +8,7 @@
 </head>
 <body>
     <div id="nav-bar">
-        <h1>SHOES SHOP</h1>
+        <h1>Drinks</h1>
         <nav>
             <ul>
                 <li><a href="">Home</a></li>
