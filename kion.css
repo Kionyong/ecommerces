@@ -73,3 +73,9 @@
     height:90px;
     background: #eee;
 }
+#footer h1{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #eee;
+    margin: 20px 20px;
+}

@@ -9,8 +9,10 @@
 <body>
     <footer id="footer">
         <h1>Drinks</h1>
-        <div class="footer-">
-            
+        <div class="footer-text">
+            <ul>
+                <li>Localtion: Phnom Phen</li>
+            </ul>
         </div>
     </footer>
 </body>
