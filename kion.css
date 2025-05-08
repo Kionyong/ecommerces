@@ -75,6 +75,7 @@
     display:flex;
     justify-content:center;
     align-items: center;
+    flex-direction: column;
 }
 #footer h1{
     font-family: sans-serif;
