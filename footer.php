@@ -12,6 +12,7 @@
         <div class="footer-text">
             <ul>
                 <li>Localtion: Phnom Phen</li>
+                <li>Phone Number: 094 165 234</li>
             </ul>
         </div>
     </footer>
