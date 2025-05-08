@@ -73,7 +73,7 @@
     height:170px;
     background: #222;
     display:flex;
-    justify-content: center;
+    justify-content:center;
     align-items: center;
 }
 #footer h1{
