@@ -15,6 +15,9 @@
                 <li>Phone Number: 094 165 234</li>
             </ul>
         </div>
+        <div>
+            <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, incidunt?</h1>
+        </div>
     </footer>
 </body>
 </html>
