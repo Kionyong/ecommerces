@@ -18,5 +18,10 @@
             </ul>
         </nav>
     </div>
+    <div class="checkout">
+        <div class="ch-box">
+            Hello
+        </div>
+    </div>
 </body>
 </html>
