@@ -15,14 +15,24 @@
                 <li><a href="">Home</a></li>
                 <li><a href="">Products</a></li>
                 <li><a href="">About Us</a></li>
-                <li><a href="">Checkout</a></li>
+                <li><a  onclick="showHide()" href="">Checkout</a></li>
             </ul>
         </nav>
     </div>
-    <div class="checkout">
+    <div class="checkout"  id="hide-show">
         <div class="ch-box">
-            Hello World
+            <div id="reader-cart">
+                <img src="./assets/cacocola001.png" alt="Error">
+                <p>Name</p>
+                <p>Price</p>
+                <button type="button" id="dele-cart">Delete</button>
+            </div>
+        </div>
+        <div id="ch-result">
+            <h1 id="total">Total:$0.00</h1>
+            <button type="button" id="btn">Checkout</button>
         </div>
     </div>
+    <script src="./javascript.js"></script>
 </body>
 </html>
