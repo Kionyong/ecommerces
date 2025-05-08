@@ -96,7 +96,7 @@
     height:90vh;
     background: #f2eeee;
     margin-left:73%;
-    display: flex;
+    display:none;
     flex-direction: column;
     position: absolute;
 }
