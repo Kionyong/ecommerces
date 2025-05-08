@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Navbar</title>
     <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./kion.css">
 </head>
 <body>
     <div id="nav-bar">
@@ -20,7 +21,7 @@
     </div>
     <div class="checkout">
         <div class="ch-box">
-            Hello
+            Hello World
         </div>
     </div>
 </body>
