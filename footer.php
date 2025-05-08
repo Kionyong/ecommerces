@@ -16,7 +16,7 @@
             </ul>
         </div>
         <div>
-            <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, incidunt?</h1>
+            <h1>Please help preserve the rights. If you redistribute it, you must be responsible.</h1>
         </div>
     </footer>
 </body>
