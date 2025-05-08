@@ -15,7 +15,7 @@
                 <li><a href="">Home</a></li>
                 <li><a href="">Products</a></li>
                 <li><a href="">About Us</a></li>
-                <li><a  onclick="showHide()" href="">Checkout</a></li>
+                <li><a onclick="showHide()">Checkout</a></li>
             </ul>
         </nav>
     </div>
