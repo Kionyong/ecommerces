@@ -152,3 +152,9 @@
     border-radius: 5px;
     opacity: 1s;
 }
+/*products*/
+.products-item{
+    width:50%;
+    height:500px;
+    background: #222;
+}

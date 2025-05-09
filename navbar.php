@@ -33,6 +33,17 @@
             <button type="button" id="btn">Checkout</button>
         </div>
     </div>
-    <script src="./javascript.js"></script>
 </body>
+<script>
+    var i=0;
+function showHide(){
+    if(i==0){
+        document.getElementById('hide-show').style.display='flex';
+        i=1;
+    }else{
+        document.getElementById('hide-show').style.display='none';
+        i=0;
+    }
+}
+</script>
 </html>
