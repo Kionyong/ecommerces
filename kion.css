@@ -156,5 +156,10 @@
 .products-item{
     width:50%;
     height:500px;
-    background: #222;
+    background: red;
+}
+.products-item .child-products{
+    width:30%;
+    height:210px;
+    border: 1px solid #222;
 }
