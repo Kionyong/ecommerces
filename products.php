@@ -8,7 +8,9 @@
     <link rel="stylesheet" href="kion.css">
 </head>
 <body>
-
+    <?php
+        include('navbar.php');
+    ?>
     <div class="products-item">
         <!-- <div class="child-products">
             <img src="" alt="">
@@ -16,7 +18,9 @@
             <p>proprice</p>
         </div> -->
     </div>
-
+    <?php
+        include('footer.php');
+    ?>
     <script src="./javascript.js"></script>
 </body>
 </html>
